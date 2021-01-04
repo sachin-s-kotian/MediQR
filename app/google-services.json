@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "976141988641",
+    "project_id": "mediqr-1594730574515",
+    "storage_bucket": "mediqr-1594730574515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976141988641:android:740c4d5814344fc0f4c460",
+        "android_client_info": {
+          "package_name": "com.example.mediqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976141988641-d3khtduvig0g658t75j1h7e24jta9mol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mediqr",
+            "certificate_hash": "F00A1E685CB129C494214024A735445925DA645A"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpGIz7MFzT6oatPgbjOsgO6igHWIP6ygY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976141988641-rfccitthk225mnli74fpjbthva4r418f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

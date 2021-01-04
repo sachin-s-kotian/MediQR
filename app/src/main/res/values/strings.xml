@@ -1,0 +1,40 @@
+<resources>
+
+    <!--Activity Labels-->
+    <string name="app_name">MediQR</string>
+    <string name="home">Home</string>
+    <string name="scanner">Scan</string>
+    <string name="viewer">View</string>
+    <string name="settings">Settings</string>
+
+    <!--App Config Values-->
+    <!--    <string name="service_url">http://192.168.1.104:8080</string>-->
+    <string name="service_url">https://mediqr-server.herokuapp.com</string>
+    <string name="client_id">976141988641-rfccitthk225mnli74fpjbthva4r418f.apps.googleusercontent.com</string>
+
+    <!-- Intent -->
+
+    <!-- Auth Screen -->
+
+    <!-- Menus -->
+    <string name="menu_settings">Settings</string>
+
+    <!-- Image Descriptions -->
+    <string name="desc_error_icon">Error occurred</string>
+    <string name="desc_logo_icon">MediQR Services</string>
+    <string name="desc_greet">Greetings</string>
+
+    <!-- Splash Screen messages -->
+
+    <string name="greet_text">Hello! User</string>
+
+    <!-- Preference Titles -->
+    <string name="account_header">My Account</string>
+
+    <!-- Messages Preferences -->
+    <string name="logout_title">Logout</string>
+
+    <!-- Sync Preferences -->
+    <string name="logout_summary">Remove stored token and exit app</string>
+
+</resources>
